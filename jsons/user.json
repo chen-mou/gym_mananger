@@ -1,0 +1,8 @@
+{
+  "id": 3,
+  "name": "worker1",
+  "password": "worker",
+  "nickname": "新用户",
+  "role": "Custom",
+  "avatar": "http://8.130.122.134/img/default.jpg"
+}
